@@ -73,8 +73,8 @@ const Footer = () => {
           <div className="flex items-start gap-2 text-sm mb-4">
             <FaMapMarkerAlt className="mt-1 text-[#e63946]" />
             <span className="text-[#23272f] leading-snug">
-              109 Breeds Hill Rd,<br />
-              Little Elm, Texas 75068
+              <br />
+              Little Elm Dallas Texas 75068
             </span>
           </div>
 
