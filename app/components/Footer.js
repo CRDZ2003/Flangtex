@@ -69,14 +69,14 @@ const Footer = () => {
             <span className="text-[#23272f]">+1 (469) 451-2724</span>
           </div>
 
-          {/* Address */}
-          <div className="flex items-start gap-2 text-sm mb-4">
-            <FaMapMarkerAlt className="mt-1 text-[#e63946]" />
-            <span className="text-[#23272f] leading-snug">
-              <br />
-              Little Elm Dallas Texas 75068
-            </span>
-          </div>
+         {/* Address */}
+<div className="flex items-start gap-2 text-sm mb-4">
+  <FaMapMarkerAlt className="mt-1 text-[#e63946]" />
+  <span className="text-[#23272f] leading-snug">
+    Little Elm, Dallas, Texas 75068
+  </span>
+</div>
+
 
           {/* Social */}
           <div className="flex gap-4">
